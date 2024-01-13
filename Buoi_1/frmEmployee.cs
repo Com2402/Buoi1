@@ -27,7 +27,7 @@ namespace Buoi_1
 
         private void dtg_Employee_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            ////
+            ////1301
         }
     }
 }
